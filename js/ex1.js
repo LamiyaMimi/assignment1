@@ -3,7 +3,7 @@
 var firstname=" Hi,my name is joya das."
  var secondname="i'm 21 year old."
 
-document.getElementById("student_message").innerHTML = "Hi, my name is joya das." + ""+ "i'm 21 year old.";
+document.getElementById("student_message").innerHTML = "Hi, my name is Lamiya Mimi." + ""+ "I'm 21 year old.";
 
 
 //2//
